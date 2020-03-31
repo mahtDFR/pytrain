@@ -13,7 +13,7 @@ Control scripts for an H0 DC loco using [gpiozero](https://gpiozero.readthedocs.
 
 You'll need to run `pip install gpiozero`
 
-Some scripts may not work that elegantly right now. `pir-pwm.py` is the most refined.
+Some scripts may not work that elegantly right now. [pir-pwm.py](https://github.com/mahtDFR/pytrain/blob/master/pir-pwm.py) is the most refined.
 
 ![alt text](https://github.com/mahtDFR/pytrain/blob/master/resources/demo.gif "Demo")
 
